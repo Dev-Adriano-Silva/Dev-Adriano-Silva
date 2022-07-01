@@ -5,7 +5,7 @@
 - 💬 Pergunte-me sobre HTML, CSS e JavaScript ...
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div align="inline-block">
   <a href="https://github.com/Dev-Adriano-Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Adriano-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Adriano-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
